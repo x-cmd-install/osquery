@@ -7,7 +7,7 @@ about:
   head: a1bbec2
   archived: false
   latestVersion: 5.23.1
-  collectedAt: 2026-09-04T20:18:22Z
+  collectedAt: 2026-09-04T20:25:39Z
 timeline:
   created: 2014-07-29
   lastCommit: 2026-08-25
@@ -93,7 +93,7 @@ total:
   commit: 6752
 ---
 path: /home/runner/.x-repo/github.com/osquery/osquery
-collectedAt: 2026-09-04T20:18:24Z
+collectedAt: 2026-09-04T20:25:42Z
 loc:
   Cpp:
     code: 115371
