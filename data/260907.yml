@@ -5,19 +5,19 @@ about:
   head: a1bbec2
   archived: false
   latestVersion: "5.23.1"
-  collectedAt: 2026-09-07T05:31:09Z
+  collectedAt: 2026-09-07T18:54:44Z
 timeline:
   created: 2014-07-29
   lastCommit: 2026-08-25
   lastRelease: 2026-06-24
 popularity:
-  star: 23549
+  star: 23550
   watcher: 662
-  fork: 2596
+  fork: 2597
   release: 141
   contributor: 461
   pullRequest: 5368
-  issue: 3645
+  issue: 3647
 language:
   C++: 8916147
   C: 2980851
@@ -40,7 +40,7 @@ recent:
     mergedPR: 2
     openPR: 17
     closedIssue: 0
-    openIssue: 9
+    openIssue: 11
     commit: 2
   last60d:
     since: 2026-07-09
@@ -48,7 +48,7 @@ recent:
     mergedPR: 19
     openPR: 27
     closedIssue: 5
-    openIssue: 31
+    openIssue: 33
     commit: 20
   last90d:
     since: 2026-06-09
@@ -56,7 +56,7 @@ recent:
     mergedPR: 27
     openPR: 29
     closedIssue: 41
-    openIssue: 40
+    openIssue: 42
     commit: 35
   last180d:
     since: 2026-03-11
@@ -64,7 +64,7 @@ recent:
     mergedPR: 66
     openPR: 39
     closedIssue: 71
-    openIssue: 72
+    openIssue: 74
     commit: 68
   last360d:
     since: 2025-09-12
@@ -72,7 +72,7 @@ recent:
     mergedPR: 115
     openPR: 41
     closedIssue: 98
-    openIssue: 83
+    openIssue: 85
     commit: 117
   last720d:
     since: 2024-09-17
@@ -80,18 +80,18 @@ recent:
     mergedPR: 245
     openPR: 47
     closedIssue: 155
-    openIssue: 128
+    openIssue: 130
     commit: 259
 total:
   release: 141
   mergedPR: 4540
   openPR: 67
   closedIssue: 3072
-  openIssue: 573
+  openIssue: 575
   commit: 6752
 ---
 path: /home/runner/.x-repo/github.com/osquery/osquery
-collectedAt: 2026-09-07T05:31:15Z
+collectedAt: 2026-09-07T18:54:48Z
 loc:
   Cpp:
     code: 115371
@@ -372,7 +372,7 @@ checks:
       - 'Info:   0 out of  10 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:31:18+00:00
+  collectedAt: 2026-09-07T18:54:50+00:00
   platform:
     darwin/arm64:
       name:  osquery-5.23.1_1.macos_arm64.tar.gz
