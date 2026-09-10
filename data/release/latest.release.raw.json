@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 30945997,
       "digest": "sha256:499d3009647c42013c42043ac08bad6cc2aa0fe2f8da53b45a3fa601563b9df0",
-      "download_count": 482,
+      "download_count": 499,
       "created_at": "2026-06-24T19:33:25Z",
       "updated_at": "2026-06-24T19:33:26Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1-1.linux.aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 32889073,
       "digest": "sha256:500e3ba0eb0f2087002acbb82481320f7c131e217f5b525df1c5b4490c43bf4f",
-      "download_count": 794,
+      "download_count": 801,
       "created_at": "2026-06-24T19:33:21Z",
       "updated_at": "2026-06-24T19:33:23Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1-1.linux.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 19984384,
       "digest": "sha256:bb3adc9f32f257147855404d24bceebcd8baf6e65f4d4ca43e186f4a85fa6ed3",
-      "download_count": 15589,
+      "download_count": 15728,
       "created_at": "2026-06-24T19:33:43Z",
       "updated_at": "2026-06-24T19:33:45Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.msi"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 25917400,
       "digest": "sha256:9f40cea0358759ab2ee871c577055657e3cc2c7cbe5c1247f764245941178aa6",
-      "download_count": 34192,
+      "download_count": 34325,
       "created_at": "2026-06-24T19:34:22Z",
       "updated_at": "2026-06-24T19:34:25Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.pkg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13634280,
       "digest": "sha256:0913d05cc3fc92dd9253c945caacde10a776408f267cc1cc853a05de24dba900",
-      "download_count": 1112,
+      "download_count": 1163,
       "created_at": "2026-06-24T19:33:46Z",
       "updated_at": "2026-06-24T19:33:46Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.windows_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18950597,
       "digest": "sha256:7bd411050ef6b5aae1b23956aec0dc5ce6e800c5656f0cd463ac70a6e1bdf30b",
-      "download_count": 1939,
+      "download_count": 1998,
       "created_at": "2026-06-24T19:33:43Z",
       "updated_at": "2026-06-24T19:33:45Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1.windows_x86_64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 84067295,
       "digest": "sha256:9ae763820166f75f19970b5147b1930a308865a923ab127f4b8bbaea7b69962a",
-      "download_count": 730,
+      "download_count": 740,
       "created_at": "2026-06-24T19:33:25Z",
       "updated_at": "2026-06-24T19:33:28Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1_1.linux_aarch64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 84455039,
       "digest": "sha256:0f37a478a1dbda24b67c81551e32d734b392c5a2f5deb156bf1c41ca204cfa67",
-      "download_count": 2284,
+      "download_count": 2294,
       "created_at": "2026-06-24T19:33:21Z",
       "updated_at": "2026-06-24T19:33:25Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1_1.linux_x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 25893999,
       "digest": "sha256:5484f0b62e05a7b2fa9d6e43f038915ea2b7ce063d59bd671ede0cf8dd0552da",
-      "download_count": 678,
+      "download_count": 682,
       "created_at": "2026-06-24T19:34:22Z",
       "updated_at": "2026-06-24T19:34:25Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-5.23.1_1.macos_arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 53049964,
       "digest": "sha256:e6adbf1a696fa1a27c488fc73b6fcb0638a5c7e1d1a876ab68dfe8774cb59365",
-      "download_count": 26,
+      "download_count": 28,
       "created_at": "2026-06-24T19:33:23Z",
       "updated_at": "2026-06-24T19:33:25Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery-dbgsym_5.23.1-1.linux_arm64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 19469296,
       "digest": "sha256:b33f2c42d41fefb871bce8fab7faf57202580fc919115528e16af50d58da5226",
-      "download_count": 1634,
+      "download_count": 1647,
       "created_at": "2026-06-24T19:33:43Z",
       "updated_at": "2026-06-24T19:33:45Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery.5.23.1.nupkg"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 25571024,
       "digest": "sha256:8c10f293def8cda9734a4d8e734fac8d271032868f14c7bc4fcef789832602b6",
-      "download_count": 152,
+      "download_count": 165,
       "created_at": "2026-06-24T19:34:22Z",
       "updated_at": "2026-06-24T19:34:25Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osqueryd-macos-bare-5.23.1.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 33037000,
       "digest": "sha256:1431a9a6394657eba3cdd3476a462a6fe9721fc3664a70f23efcf7e37816787a",
-      "download_count": 2204,
+      "download_count": 2227,
       "created_at": "2026-06-24T19:33:21Z",
       "updated_at": "2026-06-24T19:33:23Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery_5.23.1-1.linux_amd64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 30999764,
       "digest": "sha256:062df9b6432ca1b374e80b24b54f027e224f1300d8bf6338182ec40f41b7975d",
-      "download_count": 1333,
+      "download_count": 1336,
       "created_at": "2026-06-24T19:33:24Z",
       "updated_at": "2026-06-24T19:33:25Z",
       "browser_download_url": "https://github.com/osquery/osquery/releases/download/5.23.1/osquery_5.23.1-1.linux_arm64.deb"

@@ -7,7 +7,7 @@ about:
   latestVersion: "5.23.1"
   latestRelease: "5.23.1"
   latestPrerelease: "5.2.1"
-  collectedAt: 2026-09-10T05:47:31Z
+  collectedAt: 2026-09-10T17:38:35Z
 timeline:
   created: 2014-07-29
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-06-24
   lastPrerelease: 2022-01-18
 popularity:
-  star: 23557
+  star: 23560
   watcher: 662
-  fork: 2596
+  fork: 2597
   release: 141
   contributor: 461
   pullRequest: 5369
@@ -95,7 +95,7 @@ total:
   commit: 6753
 ---
 path: /home/runner/.x-repo/github.com/osquery/osquery
-collectedAt: 2026-09-10T05:47:34Z
+collectedAt: 2026-09-10T17:38:38Z
 loc:
   Cpp:
     code: 115417
