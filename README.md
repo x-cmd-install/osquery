@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,563 · **Forks**: 2,596 · **Open issues**: 3,662 · **Contributors**: 461
+- **Stars**: 23,566 · **Forks**: 2,597 · **Open issues**: 3,662 · **Contributors**: 461
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 4541 · **Open PRs**: 72 · **Closed issues**: 3073 · **Open issues**: 589 · **Commits**: 6753
+- **Releases**: 141 · **Merged PRs**: 4541 · **Open PRs**: 73 · **Closed issues**: 3073 · **Open issues**: 589 · **Commits**: 6753
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 3 | 21 | 1 | 25 | 3 |
-| last60d | 2026-07-15 | 0 | 16 | 31 | 4 | 47 | 21 |
-| 90d | 2026-06-15 | 1 | 27 | 33 | 34 | 53 | 36 |
-| last180d | 2026-03-17 | 2 | 65 | 44 | 69 | 102 | 69 |
-| 360d | 2025-09-18 | 5 | 116 | 46 | 97 | 115 | 118 |
-| last720d | 2024-09-23 | 11 | 243 | 52 | 155 | 162 | 256 |
+| 30d | 2026-08-15 | 0 | 3 | 22 | 1 | 25 | 2 |
+| last60d | 2026-07-16 | 0 | 13 | 31 | 4 | 47 | 17 |
+| 90d | 2026-06-16 | 1 | 26 | 34 | 22 | 53 | 34 |
+| last180d | 2026-03-18 | 2 | 65 | 45 | 69 | 102 | 69 |
+| 360d | 2025-09-19 | 5 | 116 | 47 | 97 | 115 | 117 |
+| last720d | 2024-09-24 | 11 | 242 | 53 | 155 | 162 | 256 |
 
 ## Release assets
 
@@ -87,15 +87,6 @@ Lowest-scoring checks:
 | [osquery_5.23.1-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.23.1/osquery_5.23.1-1.linux_amd64.deb) | 31.5 MiB | `native/linux/x64` |
 | [osquery_5.23.1-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.23.1/osquery_5.23.1-1.linux_arm64.deb) | 29.6 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/osquery). **11** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `5.23.1` | ✅ latest |
-| Nix unstable | `5.23.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `osquery` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +96,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:52:44Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:58:39Z._
