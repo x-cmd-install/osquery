@@ -30,8 +30,8 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,566 · **Forks**: 2,597 · **Open issues**: 3,662 · **Contributors**: 461
+- **Stars**: 23,566 · **Forks**: 2,597 · **Open issues**: 3,664 · **Contributors**: 461
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 4541 · **Open PRs**: 73 · **Closed issues**: 3073 · **Open issues**: 589 · **Commits**: 6753
+- **Releases**: 141 · **Merged PRs**: 4541 · **Open PRs**: 75 · **Closed issues**: 3073 · **Open issues**: 591 · **Commits**: 6753
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 3 | 22 | 1 | 25 | 2 |
-| last60d | 2026-07-16 | 0 | 13 | 31 | 4 | 47 | 17 |
-| 90d | 2026-06-16 | 1 | 26 | 34 | 22 | 53 | 34 |
-| last180d | 2026-03-18 | 2 | 65 | 45 | 69 | 102 | 69 |
-| 360d | 2025-09-19 | 5 | 116 | 47 | 97 | 115 | 117 |
-| last720d | 2024-09-24 | 11 | 242 | 53 | 155 | 162 | 256 |
+| 30d | 2026-08-16 | 0 | 3 | 24 | 1 | 27 | 2 |
+| last60d | 2026-07-17 | 0 | 13 | 32 | 3 | 49 | 17 |
+| 90d | 2026-06-17 | 1 | 25 | 36 | 22 | 54 | 34 |
+| last180d | 2026-03-19 | 2 | 65 | 47 | 69 | 104 | 69 |
+| 360d | 2025-09-20 | 5 | 116 | 49 | 97 | 117 | 117 |
+| last720d | 2024-09-25 | 11 | 240 | 55 | 154 | 164 | 256 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:58:39Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:05:59Z._

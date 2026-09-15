@@ -30,8 +30,8 @@ x install osquery
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
@@ -48,22 +48,22 @@ x install osquery
 
 ## 流行度
 
-- **Star**: 23,566 · **Fork**: 2,597 · **开放 issue**: 3,662 · **贡献者**: 461
+- **Star**: 23,566 · **Fork**: 2,597 · **开放 issue**: 3,664 · **贡献者**: 461
 
 ## 累计统计
 
-- **发布数**: 141 · **已合并 PR**: 4541 · **开放 PR**: 73 · **已关闭 issue**: 3073 · **开放 issue**: 589 · **提交数**: 6753
+- **发布数**: 141 · **已合并 PR**: 4541 · **开放 PR**: 75 · **已关闭 issue**: 3073 · **开放 issue**: 591 · **提交数**: 6753
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 3 | 22 | 1 | 25 | 2 |
-| last60d | 2026-07-16 | 0 | 13 | 31 | 4 | 47 | 17 |
-| 90d | 2026-06-16 | 1 | 26 | 34 | 22 | 53 | 34 |
-| last180d | 2026-03-18 | 2 | 65 | 45 | 69 | 102 | 69 |
-| 360d | 2025-09-19 | 5 | 116 | 47 | 97 | 115 | 117 |
-| last720d | 2024-09-24 | 11 | 242 | 53 | 155 | 162 | 256 |
+| 30d | 2026-08-16 | 0 | 3 | 24 | 1 | 27 | 2 |
+| last60d | 2026-07-17 | 0 | 13 | 32 | 3 | 49 | 17 |
+| 90d | 2026-06-17 | 1 | 25 | 36 | 22 | 54 | 34 |
+| last180d | 2026-03-19 | 2 | 65 | 47 | 69 | 104 | 69 |
+| 360d | 2025-09-20 | 5 | 116 | 49 | 97 | 117 | 117 |
+| last720d | 2024-09-25 | 11 | 240 | 55 | 154 | 164 | 256 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ osquery 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:58:39Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T06:06:00Z._
