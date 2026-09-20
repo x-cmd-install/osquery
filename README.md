@@ -4,7 +4,7 @@
 
 SQL powered operating system instrumentation, monitoring, and analytics.
 
-![osquery](https://repo.x-cmd.io/osquery.svg)
+[![x-cmd/install — osquery Code Quality Monitoring Repo Card](https://repo.x-cmd.io/osquery.svg)](https://x-cmd.com/install/osquery)
 
 ## Install
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 4555 · **Open PRs**: 63 · **Closed issues**: 3083 · **Open issues**: 582 · **Commits**: 6767
+- **Releases**: 141 · **Merged PRs**: 4555 · **Open PRs**: 63 · **Closed issues**: 3119 · **Open issues**: 546 · **Commits**: 6767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 14 | 12 | 4 | 25 | 16 |
-| last60d | 2026-07-20 | 0 | 26 | 21 | 8 | 43 | 31 |
-| 90d | 2026-06-20 | 1 | 38 | 25 | 26 | 48 | 48 |
-| last180d | 2026-03-22 | 2 | 79 | 36 | 77 | 97 | 83 |
-| 360d | 2025-09-23 | 5 | 129 | 38 | 106 | 109 | 131 |
-| last720d | 2024-09-28 | 11 | 252 | 44 | 161 | 156 | 269 |
+| 30d | 2026-08-21 | 0 | 14 | 11 | 4 | 24 | 16 |
+| last60d | 2026-07-22 | 0 | 26 | 21 | 20 | 30 | 31 |
+| 90d | 2026-06-22 | 1 | 38 | 24 | 38 | 35 | 48 |
+| last180d | 2026-03-24 | 2 | 79 | 36 | 113 | 60 | 83 |
+| 360d | 2025-09-25 | 5 | 128 | 38 | 142 | 73 | 131 |
+| last720d | 2024-09-30 | 11 | 252 | 44 | 197 | 120 | 269 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:07:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:52:57Z._

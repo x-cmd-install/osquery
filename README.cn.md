@@ -4,7 +4,7 @@
 
 SQL powered operating system instrumentation, monitoring, and analytics.
 
-![osquery](https://repo.x-cmd.io/osquery.svg?lang=zh)
+[![x-cmd/install — osquery Code Quality Monitoring Repo Card](https://repo.x-cmd.io/osquery.svg?lang=zh)](https://x-cmd.com/install/osquery)
 
 ## 安装
 
@@ -52,18 +52,18 @@ x install osquery
 
 ## 累计统计
 
-- **发布数**: 141 · **已合并 PR**: 4555 · **开放 PR**: 63 · **已关闭 issue**: 3083 · **开放 issue**: 582 · **提交数**: 6767
+- **发布数**: 141 · **已合并 PR**: 4555 · **开放 PR**: 63 · **已关闭 issue**: 3119 · **开放 issue**: 546 · **提交数**: 6767
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 14 | 12 | 4 | 25 | 16 |
-| last60d | 2026-07-20 | 0 | 26 | 21 | 8 | 43 | 31 |
-| 90d | 2026-06-20 | 1 | 38 | 25 | 26 | 48 | 48 |
-| last180d | 2026-03-22 | 2 | 79 | 36 | 77 | 97 | 83 |
-| 360d | 2025-09-23 | 5 | 129 | 38 | 106 | 109 | 131 |
-| last720d | 2024-09-28 | 11 | 252 | 44 | 161 | 156 | 269 |
+| 30d | 2026-08-21 | 0 | 14 | 11 | 4 | 24 | 16 |
+| last60d | 2026-07-22 | 0 | 26 | 21 | 20 | 30 | 31 |
+| 90d | 2026-06-22 | 1 | 38 | 24 | 38 | 35 | 48 |
+| last180d | 2026-03-24 | 2 | 79 | 36 | 113 | 60 | 83 |
+| 360d | 2025-09-25 | 5 | 128 | 38 | 142 | 73 | 131 |
+| last720d | 2024-09-30 | 11 | 252 | 44 | 197 | 120 | 269 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ osquery 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:07:48Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:52:58Z._
