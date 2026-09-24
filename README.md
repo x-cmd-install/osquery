@@ -30,8 +30,8 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,587 · **Forks**: 2,597 · **Open issues**: 3,666 · **Contributors**: 466
+- **Stars**: 23,586 · **Forks**: 2,598 · **Open issues**: 3,666 · **Contributors**: 466
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 4559 · **Open PRs**: 62 · **Closed issues**: 3124 · **Open issues**: 542 · **Commits**: 6771
+- **Releases**: 141 · **Merged PRs**: 4559 · **Open PRs**: 64 · **Closed issues**: 3124 · **Open issues**: 542 · **Commits**: 6771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 18 | 10 | 6 | 22 | 19 |
-| last60d | 2026-07-25 | 0 | 30 | 20 | 23 | 27 | 32 |
-| 90d | 2026-06-25 | 0 | 41 | 23 | 28 | 31 | 47 |
-| last180d | 2026-03-27 | 2 | 80 | 35 | 117 | 56 | 86 |
-| 360d | 2025-09-28 | 5 | 131 | 37 | 147 | 69 | 134 |
-| last720d | 2024-10-03 | 11 | 256 | 43 | 201 | 116 | 273 |
+| 30d | 2026-08-25 | 0 | 17 | 10 | 6 | 21 | 19 |
+| last60d | 2026-07-26 | 0 | 29 | 22 | 23 | 27 | 32 |
+| 90d | 2026-06-26 | 0 | 41 | 25 | 28 | 31 | 47 |
+| last180d | 2026-03-28 | 2 | 80 | 37 | 117 | 56 | 86 |
+| 360d | 2025-09-29 | 5 | 131 | 39 | 147 | 68 | 134 |
+| last720d | 2024-10-04 | 11 | 256 | 45 | 201 | 116 | 273 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:01:39Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:41:28Z._
