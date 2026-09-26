@@ -14,7 +14,7 @@ x install osquery
 
 ## Code insight
 
-Total: **268,712** lines of code across **1822** files in the top 5 languages.
+Total: **268,740** lines of code across **1822** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `5.23.1` (2026-06-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 4560 · **Open PRs**: 63 · **Closed issues**: 3124 · **Open issues**: 542 · **Commits**: 6772
+- **Releases**: 141 · **Merged PRs**: 4561 · **Open PRs**: 62 · **Closed issues**: 3152 · **Open issues**: 514 · **Commits**: 6773
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 18 | 8 | 6 | 21 | 20 |
-| last60d | 2026-07-27 | 0 | 29 | 21 | 9 | 27 | 33 |
-| 90d | 2026-06-27 | 0 | 42 | 24 | 28 | 31 | 48 |
-| last180d | 2026-03-29 | 2 | 81 | 36 | 117 | 56 | 87 |
-| 360d | 2025-09-30 | 5 | 132 | 38 | 147 | 68 | 135 |
-| last720d | 2024-10-05 | 11 | 257 | 44 | 201 | 116 | 274 |
+| 30d | 2026-08-27 | 0 | 19 | 7 | 21 | 6 | 21 |
+| last60d | 2026-07-28 | 0 | 30 | 20 | 24 | 11 | 34 |
+| 90d | 2026-06-28 | 0 | 43 | 23 | 44 | 15 | 49 |
+| last180d | 2026-03-30 | 2 | 82 | 35 | 142 | 30 | 88 |
+| 360d | 2025-10-01 | 5 | 133 | 37 | 173 | 42 | 136 |
+| last720d | 2024-10-06 | 11 | 258 | 43 | 229 | 88 | 275 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:43:37Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:40:49Z._
