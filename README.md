@@ -26,7 +26,7 @@ Total: **268,740** lines of code across **1822** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `5.23.1` (2026-06-24)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-30
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 23,591 · **Forks**: 2,603 · **Open issues**: 3,666 · **Contributors**: 465
+- **Stars**: 23,598 · **Forks**: 2,604 · **Open issues**: 3,667 · **Contributors**: 466
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 4560 · **Open PRs**: 64 · **Closed issues**: 3152 · **Open issues**: 514 · **Commits**: 6773
+- **Releases**: 141 · **Merged PRs**: 4561 · **Open PRs**: 65 · **Closed issues**: 3152 · **Open issues**: 515 · **Commits**: 6774
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 17 | 8 | 16 | 6 | 20 |
-| last60d | 2026-08-01 | 0 | 26 | 19 | 23 | 11 | 30 |
-| 90d | 2026-07-02 | 0 | 42 | 25 | 43 | 15 | 47 |
-| last180d | 2026-04-03 | 2 | 81 | 37 | 141 | 30 | 86 |
-| 360d | 2025-10-05 | 5 | 130 | 39 | 173 | 40 | 129 |
-| last720d | 2024-10-10 | 11 | 255 | 45 | 228 | 88 | 263 |
+| 30d | 2026-09-01 | 0 | 18 | 9 | 16 | 7 | 21 |
+| last60d | 2026-08-02 | 0 | 27 | 20 | 23 | 12 | 31 |
+| 90d | 2026-07-03 | 0 | 43 | 26 | 43 | 16 | 48 |
+| last180d | 2026-04-04 | 2 | 80 | 38 | 141 | 31 | 87 |
+| 360d | 2025-10-06 | 5 | 131 | 40 | 173 | 41 | 130 |
+| last720d | 2024-10-11 | 11 | 256 | 46 | 226 | 89 | 263 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:28:20Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:46:18Z._
