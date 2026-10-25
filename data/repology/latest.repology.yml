@@ -1,10 +1,3 @@
-- repo: chocolatey
-  binname: osquery
-  visiblename: osquery
-  version: 5.11.0
-  origversion: null
-  status: outdated
-  summary: "osquery gives you the ability to query and log things like running \n  processes, logged in users, password changes, usb devices, firewall \n  exceptions, listening ports, and more."
 - repo: alt_p11
   srcname: osquery
   binnames:
@@ -60,6 +53,13 @@
     - tee@aur
   licenses:
     - Apache-2.0 OR GPL-2.0-or-later
+- repo: chocolatey
+  binname: osquery
+  visiblename: osquery
+  version: 5.11.0
+  origversion: null
+  status: outdated
+  summary: "osquery gives you the ability to query and log things like running \n  processes, logged in users, password changes, usb devices, firewall \n  exceptions, listening ports, and more."
 - repo: exherbo
   subrepo: CleverCloud
   srcname: app-admin/osquery-bin
@@ -95,9 +95,9 @@
   srcname: sysutils/osquery
   binname: osquery
   visiblename: osquery
-  version: 5.23.1
+  version: 5.24.0
   origversion: null
-  status: outdated
+  status: newest
   summary: SQL powered operating system instrumentation, monitoring, and analytics.
   maintainers:
     - herbygillot@github
