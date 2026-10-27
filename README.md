@@ -14,7 +14,7 @@ x install osquery
 
 ## Code insight
 
-Total: **273,552** lines of code across **1845** files in the top 5 languages.
+Total: **273,548** lines of code across **1845** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `5.24.0` (2026-10-09)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-26
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 23,676 · **Forks**: 2,628 · **Open issues**: 3,698 · **Contributors**: 482
+- **Stars**: 23,685 · **Forks**: 2,627 · **Open issues**: 3,699 · **Contributors**: 481
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 4618 · **Open PRs**: 77 · **Closed issues**: 3195 · **Open issues**: 503 · **Commits**: 6830
+- **Releases**: 142 · **Merged PRs**: 4610 · **Open PRs**: 77 · **Closed issues**: 3195 · **Open issues**: 504 · **Commits**: 6831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 45 | 27 | 24 | 8 | 55 |
-| last60d | 2026-08-27 | 1 | 68 | 31 | 47 | 12 | 78 |
-| 90d | 2026-07-28 | 1 | 85 | 38 | 51 | 16 | 88 |
-| last180d | 2026-04-29 | 2 | 115 | 44 | 147 | 33 | 118 |
-| 360d | 2025-10-31 | 5 | 181 | 53 | 200 | 42 | 183 |
-| last720d | 2024-11-05 | 11 | 298 | 58 | 256 | 82 | 304 |
+| 30d | 2026-09-27 | 1 | 45 | 27 | 24 | 9 | 56 |
+| last60d | 2026-08-28 | 1 | 67 | 31 | 42 | 13 | 78 |
+| 90d | 2026-07-29 | 1 | 83 | 36 | 51 | 17 | 86 |
+| last180d | 2026-04-30 | 2 | 105 | 44 | 147 | 34 | 110 |
+| 360d | 2025-11-01 | 5 | 173 | 53 | 200 | 43 | 175 |
+| last720d | 2024-11-06 | 11 | 290 | 58 | 256 | 83 | 305 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:27:49Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:51:05Z._
