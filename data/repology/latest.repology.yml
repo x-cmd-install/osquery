@@ -211,9 +211,9 @@
 - repo: nix_unstable
   srcname: osquery
   visiblename: osquery
-  version: 5.23.1
+  version: 5.24.0
   origversion: null
-  status: outdated
+  status: newest
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   maintainers:
     - znewman01@gmail.com
