@@ -14,15 +14,15 @@ x install osquery
 
 ## Code insight
 
-Total: **282,254** lines of code across **1892** files in the top 5 languages.
+Total: **282,307** lines of code across **1892** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 127,995 | 21,838 | 28,083 | 976 |
+| Cpp | 128,096 | 21,848 | 28,095 | 976 |
 | CHeader | 98,912 | 63,077 | 26,457 | 631 |
-| CMake | 17,571 | 1,646 | 3,071 | 225 |
+| CMake | 17,574 | 1,647 | 3,072 | 225 |
 | C | 15,678 | 3,497 | 3,392 | 22 |
-| ObjectiveCpp | 6,735 | 998 | 1,225 | 38 |
+| ObjectiveCpp | 6,645 | 985 | 1,215 | 38 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `5.24.1` (2026-10-09)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-31
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 23,703 · **Forks**: 2,629 · **Open issues**: 3,701 · **Contributors**: 483
+- **Stars**: 23,709 · **Forks**: 2,630 · **Open issues**: 3,702 · **Contributors**: 484
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4627 · **Open PRs**: 71 · **Closed issues**: 3200 · **Open issues**: 501 · **Commits**: 6848
+- **Releases**: 143 · **Merged PRs**: 4632 · **Open PRs**: 68 · **Closed issues**: 3204 · **Open issues**: 498 · **Commits**: 6853
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 61 | 21 | 25 | 9 | 73 |
-| last60d | 2026-08-31 | 2 | 84 | 26 | 44 | 13 | 95 |
-| 90d | 2026-08-01 | 2 | 96 | 31 | 52 | 17 | 103 |
-| last180d | 2026-05-03 | 3 | 119 | 39 | 149 | 34 | 127 |
-| 360d | 2025-11-04 | 6 | 190 | 48 | 202 | 43 | 192 |
-| last720d | 2024-11-09 | 12 | 306 | 53 | 257 | 83 | 321 |
+| 30d | 2026-10-01 | 2 | 65 | 18 | 24 | 10 | 78 |
+| last60d | 2026-09-01 | 2 | 89 | 23 | 44 | 14 | 100 |
+| 90d | 2026-08-02 | 2 | 101 | 28 | 52 | 18 | 108 |
+| last180d | 2026-05-04 | 3 | 123 | 36 | 150 | 34 | 132 |
+| 360d | 2025-11-05 | 6 | 195 | 45 | 203 | 43 | 197 |
+| last720d | 2024-11-10 | 12 | 311 | 50 | 258 | 83 | 326 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/osquery). **6** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/osquery). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:36:27Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:25:36Z._
