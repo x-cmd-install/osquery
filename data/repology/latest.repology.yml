@@ -111,23 +111,25 @@
   srcname: osquery
   binname: osquery
   visiblename: osquery
-  version: 5.23.1
-  origversion: 5.23.1-1
+  version: 5.7.0
+  origversion: 5.7.0-1
   status: outdated
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   licenses:
-    - Apache-2.0 OR GPL-2.0-only
+    - Apache
+    - GPL2
 - repo: manjaro_testing
   subrepo: extra
   srcname: osquery
   binname: osquery
   visiblename: osquery
-  version: 5.23.1
-  origversion: 5.23.1-1
+  version: 5.7.0
+  origversion: 5.7.0-1
   status: outdated
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   licenses:
-    - Apache-2.0 OR GPL-2.0-only
+    - Apache
+    - GPL2
 - repo: manjaro_unstable
   subrepo: extra
   srcname: osquery
