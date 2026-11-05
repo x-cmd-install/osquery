@@ -42,59 +42,59 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `5.24.1` (2026-10-09)
+- **Latest**: `5.24.1` (2026-10-29)
 - **Last commit**: 2026-11-02
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 23,721 · **Forks**: 2,636 · **Open issues**: 3,713 · **Contributors**: 485
+- **Stars**: 23,730 · **Forks**: 2,636 · **Open issues**: 3,713 · **Contributors**: 485
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4633 · **Open PRs**: 77 · **Closed issues**: 3204 · **Open issues**: 509 · **Commits**: 6854
+- **Releases**: 143 · **Merged PRs**: 4633 · **Open PRs**: 78 · **Closed issues**: 3204 · **Open issues**: 509 · **Commits**: 6854
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 64 | 27 | 25 | 20 | 65 |
-| last60d | 2026-09-05 | 2 | 88 | 30 | 45 | 24 | 101 |
-| 90d | 2026-08-06 | 2 | 97 | 36 | 53 | 27 | 106 |
-| last180d | 2026-05-08 | 3 | 124 | 45 | 149 | 45 | 130 |
-| 360d | 2025-11-09 | 6 | 196 | 54 | 201 | 50 | 197 |
-| last720d | 2024-11-14 | 12 | 310 | 59 | 255 | 93 | 326 |
+| 30d | 2026-10-06 | 2 | 63 | 28 | 25 | 20 | 65 |
+| last60d | 2026-09-06 | 2 | 85 | 31 | 45 | 24 | 101 |
+| 90d | 2026-08-07 | 2 | 96 | 37 | 52 | 26 | 106 |
+| last180d | 2026-05-09 | 3 | 124 | 46 | 149 | 45 | 130 |
+| 360d | 2025-11-10 | 6 | 196 | 55 | 201 | 50 | 197 |
+| last720d | 2024-11-15 | 12 | 310 | 60 | 255 | 92 | 326 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [osquery-5.24.0-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0-1.linux.aarch64.rpm) | 10.5 MiB | `native/linux/arm64` |
-| [osquery-5.24.0-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0-1.linux.x86_64.rpm) | 10.6 MiB | `native/linux/x64` |
-| [osquery-5.24.0.msi](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.msi) | 19.9 MiB | `other` |
-| [osquery-5.24.0.pkg](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.pkg) | 16.2 MiB | `other` |
-| [osquery-5.24.0.windows_arm64.zip](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.windows_arm64.zip) | 13.7 MiB | `native/win/arm64` |
-| [osquery-5.24.0.windows_x86_64.zip](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.windows_x86_64.zip) | 18.8 MiB | `native/win/x64` |
-| [osquery-5.24.0_1.linux_aarch64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0_1.linux_aarch64.tar.gz) | 52.6 MiB | `native/linux/arm64` |
-| [osquery-5.24.0_1.linux_x86_64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0_1.linux_x86_64.tar.gz) | 52.0 MiB | `native/linux/x64` |
-| [osquery-5.24.0_1.macos_arm64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0_1.macos_arm64.tar.gz) | 16.2 MiB | `native/darwin/arm64` |
-| [osquery-dbgsym_5.24.0-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-dbgsym_5.24.0-1.linux_amd64.deb) | 41.3 MiB | `native/linux/x64` |
-| [osquery-dbgsym_5.24.0-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-dbgsym_5.24.0-1.linux_arm64.deb) | 42.0 MiB | `native/linux/arm64` |
-| [osquery-debuginfo-5.24.0-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-debuginfo-5.24.0-1.linux.aarch64.rpm) | 42.2 MiB | `native/linux/arm64` |
-| [osquery-debuginfo-5.24.0-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-debuginfo-5.24.0-1.linux.x86_64.rpm) | 41.5 MiB | `native/linux/x64` |
-| [osquery.5.24.0.nupkg](https://github.com/osquery/osquery/releases/download/5.24.0/osquery.5.24.0.nupkg) | 19.4 MiB | `other` |
-| [osqueryd-macos-bare-5.24.0.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osqueryd-macos-bare-5.24.0.tar.gz) | 15.9 MiB | `native/darwin/x64` |
-| [osquery_5.24.0-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery_5.24.0-1.linux_amd64.deb) | 10.7 MiB | `native/linux/x64` |
-| [osquery_5.24.0-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery_5.24.0-1.linux_arm64.deb) | 10.5 MiB | `native/linux/arm64` |
+| [osquery-5.24.1-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1-1.linux.aarch64.rpm) | 26.4 MiB | `native/linux/arm64` |
+| [osquery-5.24.1-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1-1.linux.x86_64.rpm) | 28.4 MiB | `native/linux/x64` |
+| [osquery-5.24.1.msi](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.msi) | 19.9 MiB | `other` |
+| [osquery-5.24.1.pkg](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.pkg) | 16.1 MiB | `other` |
+| [osquery-5.24.1.windows_arm64.zip](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.windows_arm64.zip) | 13.7 MiB | `native/win/arm64` |
+| [osquery-5.24.1.windows_x86_64.zip](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.windows_x86_64.zip) | 18.9 MiB | `native/win/x64` |
+| [osquery-5.24.1_1.linux_aarch64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1_1.linux_aarch64.tar.gz) | 76.9 MiB | `native/linux/arm64` |
+| [osquery-5.24.1_1.linux_x86_64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1_1.linux_x86_64.tar.gz) | 78.0 MiB | `native/linux/x64` |
+| [osquery-5.24.1_1.macos_arm64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1_1.macos_arm64.tar.gz) | 16.1 MiB | `native/darwin/arm64` |
+| [osquery-dbgsym_5.24.1-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-dbgsym_5.24.1-1.linux_amd64.deb) | 49.5 MiB | `native/linux/x64` |
+| [osquery-dbgsym_5.24.1-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-dbgsym_5.24.1-1.linux_arm64.deb) | 50.4 MiB | `native/linux/arm64` |
+| [osquery-debuginfo-5.24.1-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-debuginfo-5.24.1-1.linux.aarch64.rpm) | 50.3 MiB | `native/linux/arm64` |
+| [osquery-debuginfo-5.24.1-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-debuginfo-5.24.1-1.linux.x86_64.rpm) | 49.4 MiB | `native/linux/x64` |
+| [osquery.5.24.1.nupkg](https://github.com/osquery/osquery/releases/download/5.24.1/osquery.5.24.1.nupkg) | 19.4 MiB | `other` |
+| [osqueryd-macos-bare-5.24.1.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osqueryd-macos-bare-5.24.1.tar.gz) | 15.8 MiB | `native/darwin/x64` |
+| [osquery_5.24.1-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery_5.24.1-1.linux_amd64.deb) | 28.5 MiB | `native/linux/x64` |
+| [osquery_5.24.1-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery_5.24.1-1.linux_arm64.deb) | 26.5 MiB | `native/linux/arm64` |
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/osquery). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/osquery). **2** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `5.23.1` | ⚠️ outdated |
-| Nix unstable | `5.24.0` | ✅ latest |
+| Nix unstable | `5.24.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -105,4 +105,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:25:33Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:32:44Z._

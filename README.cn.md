@@ -42,59 +42,59 @@ x install osquery
 
 ## 发布
 
-- **最新版本**: `5.24.1` (2026-10-09)
+- **最新版本**: `5.24.1` (2026-10-29)
 - **最近提交**: 2026-11-02
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 23,721 · **Fork**: 2,636 · **开放 issue**: 3,713 · **贡献者**: 485
+- **Star**: 23,730 · **Fork**: 2,636 · **开放 issue**: 3,713 · **贡献者**: 485
 
 ## 累计统计
 
-- **发布数**: 143 · **已合并 PR**: 4633 · **开放 PR**: 77 · **已关闭 issue**: 3204 · **开放 issue**: 509 · **提交数**: 6854
+- **发布数**: 143 · **已合并 PR**: 4633 · **开放 PR**: 78 · **已关闭 issue**: 3204 · **开放 issue**: 509 · **提交数**: 6854
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 64 | 27 | 25 | 20 | 65 |
-| last60d | 2026-09-05 | 2 | 88 | 30 | 45 | 24 | 101 |
-| 90d | 2026-08-06 | 2 | 97 | 36 | 53 | 27 | 106 |
-| last180d | 2026-05-08 | 3 | 124 | 45 | 149 | 45 | 130 |
-| 360d | 2025-11-09 | 6 | 196 | 54 | 201 | 50 | 197 |
-| last720d | 2024-11-14 | 12 | 310 | 59 | 255 | 93 | 326 |
+| 30d | 2026-10-06 | 2 | 63 | 28 | 25 | 20 | 65 |
+| last60d | 2026-09-06 | 2 | 85 | 31 | 45 | 24 | 101 |
+| 90d | 2026-08-07 | 2 | 96 | 37 | 52 | 26 | 106 |
+| last180d | 2026-05-09 | 3 | 124 | 46 | 149 | 45 | 130 |
+| 360d | 2025-11-10 | 6 | 196 | 55 | 201 | 50 | 197 |
+| last720d | 2024-11-15 | 12 | 310 | 60 | 255 | 92 | 326 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [osquery-5.24.0-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0-1.linux.aarch64.rpm) | 10.5 MiB | `native/linux/arm64` |
-| [osquery-5.24.0-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0-1.linux.x86_64.rpm) | 10.6 MiB | `native/linux/x64` |
-| [osquery-5.24.0.msi](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.msi) | 19.9 MiB | `other` |
-| [osquery-5.24.0.pkg](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.pkg) | 16.2 MiB | `other` |
-| [osquery-5.24.0.windows_arm64.zip](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.windows_arm64.zip) | 13.7 MiB | `native/win/arm64` |
-| [osquery-5.24.0.windows_x86_64.zip](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0.windows_x86_64.zip) | 18.8 MiB | `native/win/x64` |
-| [osquery-5.24.0_1.linux_aarch64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0_1.linux_aarch64.tar.gz) | 52.6 MiB | `native/linux/arm64` |
-| [osquery-5.24.0_1.linux_x86_64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0_1.linux_x86_64.tar.gz) | 52.0 MiB | `native/linux/x64` |
-| [osquery-5.24.0_1.macos_arm64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-5.24.0_1.macos_arm64.tar.gz) | 16.2 MiB | `native/darwin/arm64` |
-| [osquery-dbgsym_5.24.0-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-dbgsym_5.24.0-1.linux_amd64.deb) | 41.3 MiB | `native/linux/x64` |
-| [osquery-dbgsym_5.24.0-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-dbgsym_5.24.0-1.linux_arm64.deb) | 42.0 MiB | `native/linux/arm64` |
-| [osquery-debuginfo-5.24.0-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-debuginfo-5.24.0-1.linux.aarch64.rpm) | 42.2 MiB | `native/linux/arm64` |
-| [osquery-debuginfo-5.24.0-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.0/osquery-debuginfo-5.24.0-1.linux.x86_64.rpm) | 41.5 MiB | `native/linux/x64` |
-| [osquery.5.24.0.nupkg](https://github.com/osquery/osquery/releases/download/5.24.0/osquery.5.24.0.nupkg) | 19.4 MiB | `other` |
-| [osqueryd-macos-bare-5.24.0.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.0/osqueryd-macos-bare-5.24.0.tar.gz) | 15.9 MiB | `native/darwin/x64` |
-| [osquery_5.24.0-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery_5.24.0-1.linux_amd64.deb) | 10.7 MiB | `native/linux/x64` |
-| [osquery_5.24.0-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.0/osquery_5.24.0-1.linux_arm64.deb) | 10.5 MiB | `native/linux/arm64` |
+| [osquery-5.24.1-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1-1.linux.aarch64.rpm) | 26.4 MiB | `native/linux/arm64` |
+| [osquery-5.24.1-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1-1.linux.x86_64.rpm) | 28.4 MiB | `native/linux/x64` |
+| [osquery-5.24.1.msi](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.msi) | 19.9 MiB | `other` |
+| [osquery-5.24.1.pkg](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.pkg) | 16.1 MiB | `other` |
+| [osquery-5.24.1.windows_arm64.zip](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.windows_arm64.zip) | 13.7 MiB | `native/win/arm64` |
+| [osquery-5.24.1.windows_x86_64.zip](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1.windows_x86_64.zip) | 18.9 MiB | `native/win/x64` |
+| [osquery-5.24.1_1.linux_aarch64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1_1.linux_aarch64.tar.gz) | 76.9 MiB | `native/linux/arm64` |
+| [osquery-5.24.1_1.linux_x86_64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1_1.linux_x86_64.tar.gz) | 78.0 MiB | `native/linux/x64` |
+| [osquery-5.24.1_1.macos_arm64.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-5.24.1_1.macos_arm64.tar.gz) | 16.1 MiB | `native/darwin/arm64` |
+| [osquery-dbgsym_5.24.1-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-dbgsym_5.24.1-1.linux_amd64.deb) | 49.5 MiB | `native/linux/x64` |
+| [osquery-dbgsym_5.24.1-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-dbgsym_5.24.1-1.linux_arm64.deb) | 50.4 MiB | `native/linux/arm64` |
+| [osquery-debuginfo-5.24.1-1.linux.aarch64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-debuginfo-5.24.1-1.linux.aarch64.rpm) | 50.3 MiB | `native/linux/arm64` |
+| [osquery-debuginfo-5.24.1-1.linux.x86_64.rpm](https://github.com/osquery/osquery/releases/download/5.24.1/osquery-debuginfo-5.24.1-1.linux.x86_64.rpm) | 49.4 MiB | `native/linux/x64` |
+| [osquery.5.24.1.nupkg](https://github.com/osquery/osquery/releases/download/5.24.1/osquery.5.24.1.nupkg) | 19.4 MiB | `other` |
+| [osqueryd-macos-bare-5.24.1.tar.gz](https://github.com/osquery/osquery/releases/download/5.24.1/osqueryd-macos-bare-5.24.1.tar.gz) | 15.8 MiB | `native/darwin/x64` |
+| [osquery_5.24.1-1.linux_amd64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery_5.24.1-1.linux_amd64.deb) | 28.5 MiB | `native/linux/x64` |
+| [osquery_5.24.1-1.linux_arm64.deb](https://github.com/osquery/osquery/releases/download/5.24.1/osquery_5.24.1-1.linux_arm64.deb) | 26.5 MiB | `native/linux/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/osquery) 上共有 **21** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/osquery) 上共有 **22** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**20** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `5.23.1` | ⚠️ outdated |
-| Nix unstable | `5.24.0` | ✅ latest |
+| Nix unstable | `5.24.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -105,4 +105,4 @@ osquery 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:25:35Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:32:45Z._
