@@ -1,3 +1,10 @@
+- repo: homebrew_casks
+  srcname: osquery
+  visiblename: osquery
+  version: 5.24.1
+  origversion: null
+  status: newest
+  summary: SQL powered operating system instrumentation and analytics
 - repo: alt_p11
   srcname: osquery
   binnames:
@@ -41,13 +48,24 @@
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   licenses:
     - Apache-2.0 OR GPL-2.0-only
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: osquery
+  binname: osquery
+  visiblename: osquery
+  version: 5.23.1
+  origversion: 5.23.1-2
+  status: outdated
+  summary: SQL powered operating system instrumentation, monitoring, and analytics
+  licenses:
+    - Apache-2.0 OR GPL-2.0-only
 - repo: aur
   srcname: osquery-bin
   binname: osquery-bin
   visiblename: osquery-bin
   version: 5.24.0
   origversion: 5.24.0-1
-  status: newest
+  status: outdated
   summary: SQL powered operating system instrumentation, monitoring, and analytics(upstream binary)
   maintainers:
     - tee@aur
@@ -66,7 +84,7 @@
   visiblename: app-admin/osquery-bin
   version: 5.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: SQL powered operating system instrumentation, monitoring, and analytics framework
   maintainers:
     - fallback-mnt-exherbo@repology
@@ -84,20 +102,13 @@
     - olivier@freebsd.org
   categories:
     - sysutils
-- repo: homebrew_casks
-  srcname: osquery
-  visiblename: osquery
-  version: 5.24.0
-  origversion: null
-  status: newest
-  summary: SQL powered operating system instrumentation and analytics
 - repo: macports
   srcname: sysutils/osquery
   binname: osquery
   visiblename: osquery
   version: 5.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: SQL powered operating system instrumentation, monitoring, and analytics.
   maintainers:
     - herbygillot@github
@@ -201,7 +212,7 @@
   visiblename: osquery
   version: 5.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   maintainers:
     - znewman01@gmail.com
@@ -215,7 +226,7 @@
   visiblename: osquery
   version: 5.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   maintainers:
     - znewman01@gmail.com
@@ -239,7 +250,7 @@
   subrepo: main
   binname: osquery
   visiblename: osquery
-  version: 5.24.0
+  version: 5.24.1
   origversion: null
   status: newest
   licenses:
