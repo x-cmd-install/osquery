@@ -1,10 +1,32 @@
-- repo: homebrew_casks
+- repo: nix_stable_25_05
   srcname: osquery
   visiblename: osquery
-  version: 5.24.1
+  version: 5.20.0
   origversion: null
-  status: newest
-  summary: SQL powered operating system instrumentation and analytics
+  status: outdated
+  summary: SQL powered operating system instrumentation, monitoring, and analytics
+  maintainers:
+    - znewman01@gmail.com
+    - lewo@abesis.fr
+    - squalus@squalus.net
+    - thomas@gerbet.me
+  licenses:
+    - GPL-2.0-only
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: osquery
+  visiblename: osquery
+  version: 5.21.0
+  origversion: null
+  status: outdated
+  summary: SQL powered operating system instrumentation, monitoring, and analytics
+  maintainers:
+    - znewman01@gmail.com
+    - lewo@abesis.fr
+    - thomas@gerbet.me
+  licenses:
+    - GPL-2.0-only
+    - Apache-2.0
 - repo: alt_p11
   srcname: osquery
   binnames:
@@ -63,9 +85,9 @@
   srcname: osquery-bin
   binname: osquery-bin
   visiblename: osquery-bin
-  version: 5.24.0
-  origversion: 5.24.0-1
-  status: outdated
+  version: 5.24.1
+  origversion: 5.24.1-1
+  status: newest
   summary: SQL powered operating system instrumentation, monitoring, and analytics(upstream binary)
   maintainers:
     - tee@aur
@@ -102,6 +124,13 @@
     - olivier@freebsd.org
   categories:
     - sysutils
+- repo: homebrew_casks
+  srcname: osquery
+  visiblename: osquery
+  version: 5.24.1
+  origversion: null
+  status: newest
+  summary: SQL powered operating system instrumentation and analytics
 - repo: macports
   srcname: sysutils/osquery
   binname: osquery
@@ -175,35 +204,6 @@
     - znewman01@gmail.com
     - lewo@abesis.fr
     - squalus@squalus.net
-  licenses:
-    - GPL-2.0-only
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: osquery
-  visiblename: osquery
-  version: 5.20.0
-  origversion: null
-  status: outdated
-  summary: SQL powered operating system instrumentation, monitoring, and analytics
-  maintainers:
-    - znewman01@gmail.com
-    - lewo@abesis.fr
-    - squalus@squalus.net
-    - thomas@gerbet.me
-  licenses:
-    - GPL-2.0-only
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: osquery
-  visiblename: osquery
-  version: 5.21.0
-  origversion: null
-  status: outdated
-  summary: SQL powered operating system instrumentation, monitoring, and analytics
-  maintainers:
-    - znewman01@gmail.com
-    - lewo@abesis.fr
-    - thomas@gerbet.me
   licenses:
     - GPL-2.0-only
     - Apache-2.0
