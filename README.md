@@ -14,15 +14,15 @@ x install osquery
 
 ## Code insight
 
-Total: **282,390** lines of code across **1892** files in the top 5 languages.
+Total: **282,515** lines of code across **1892** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 128,173 | 21,864 | 28,113 | 976 |
+| Cpp | 128,299 | 21,885 | 28,142 | 976 |
 | CHeader | 98,917 | 63,078 | 26,459 | 631 |
 | CMake | 17,574 | 1,647 | 3,072 | 225 |
 | C | 15,678 | 3,497 | 3,392 | 22 |
-| ObjectiveCpp | 6,646 | 988 | 1,215 | 38 |
+| ObjectiveCpp | 6,645 | 991 | 1,215 | 38 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `5.24.1` (2026-10-29)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-08
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 23,745 · **Forks**: 2,637 · **Open issues**: 3,717 · **Contributors**: 485
+- **Stars**: 23,747 · **Forks**: 2,637 · **Open issues**: 3,717 · **Contributors**: 485
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4635 · **Open PRs**: 90 · **Closed issues**: 3206 · **Open issues**: 511 · **Commits**: 6856
+- **Releases**: 143 · **Merged PRs**: 4640 · **Open PRs**: 85 · **Closed issues**: 3208 · **Open issues**: 509 · **Commits**: 6861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 51 | 39 | 5 | 21 | 67 |
-| last60d | 2026-09-09 | 2 | 86 | 43 | 43 | 27 | 103 |
-| 90d | 2026-08-10 | 2 | 98 | 49 | 52 | 30 | 108 |
-| last180d | 2026-05-12 | 3 | 126 | 57 | 149 | 49 | 132 |
-| 360d | 2025-11-13 | 6 | 198 | 67 | 201 | 54 | 199 |
-| last720d | 2024-11-18 | 12 | 312 | 72 | 256 | 94 | 328 |
+| 30d | 2026-10-10 | 1 | 55 | 33 | 6 | 20 | 51 |
+| last60d | 2026-09-10 | 2 | 91 | 38 | 41 | 26 | 103 |
+| 90d | 2026-08-11 | 2 | 103 | 44 | 53 | 29 | 109 |
+| last180d | 2026-05-13 | 3 | 131 | 52 | 150 | 48 | 136 |
+| 360d | 2025-11-14 | 6 | 203 | 62 | 202 | 53 | 204 |
+| last720d | 2024-11-19 | 12 | 317 | 67 | 256 | 93 | 333 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:50:20Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:26:09Z._
