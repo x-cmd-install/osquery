@@ -26,7 +26,7 @@ Total: **282,515** lines of code across **1892** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,747 · **Forks**: 2,637 · **Open issues**: 3,717 · **Contributors**: 485
+- **Stars**: 23,751 · **Forks**: 2,639 · **Open issues**: 3,719 · **Contributors**: 485
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4640 · **Open PRs**: 85 · **Closed issues**: 3208 · **Open issues**: 509 · **Commits**: 6861
+- **Releases**: 143 · **Merged PRs**: 4640 · **Open PRs**: 87 · **Closed issues**: 3210 · **Open issues**: 509 · **Commits**: 6861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 55 | 33 | 6 | 20 | 51 |
-| last60d | 2026-09-10 | 2 | 91 | 38 | 41 | 26 | 103 |
-| 90d | 2026-08-11 | 2 | 103 | 44 | 53 | 29 | 109 |
-| last180d | 2026-05-13 | 3 | 131 | 52 | 150 | 48 | 136 |
-| 360d | 2025-11-14 | 6 | 203 | 62 | 202 | 53 | 204 |
-| last720d | 2024-11-19 | 12 | 317 | 67 | 256 | 93 | 333 |
+| 30d | 2026-10-11 | 1 | 55 | 35 | 6 | 22 | 0 |
+| last60d | 2026-09-11 | 2 | 91 | 40 | 32 | 28 | 0 |
+| 90d | 2026-08-12 | 2 | 102 | 46 | 53 | 31 | 0 |
+| last180d | 2026-05-14 | 3 | 131 | 54 | 150 | 50 | 0 |
+| 360d | 2025-11-15 | 6 | 203 | 64 | 202 | 55 | 0 |
+| last720d | 2024-11-20 | 12 | 316 | 69 | 256 | 95 | 333 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/osquery). **3** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/osquery). **4** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:26:09Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:23:13Z._
