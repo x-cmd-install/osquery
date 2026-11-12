@@ -1,37 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: osquery
-  binname: osquery
-  visiblename: osquery
-  version: 5.23.1
-  origversion: 5.23.1-1
-  status: outdated
-  summary: SQL powered operating system instrumentation, monitoring, and analytics
-  licenses:
-    - Apache-2.0 OR GPL-2.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: osquery
-  binname: osquery
-  visiblename: osquery
-  version: 5.23.1
-  origversion: 5.23.1-2
-  status: outdated
-  summary: SQL powered operating system instrumentation, monitoring, and analytics
-  licenses:
-    - Apache-2.0 OR GPL-2.0-only
-- repo: nix_stable_24_05
-  srcname: osquery
-  visiblename: osquery
-  version: 5.5.1
-  origversion: null
-  status: outdated
-  summary: SQL powered operating system instrumentation, monitoring, and analytics
-  maintainers:
-    - znewman01@gmail.com
-    - lewo@abesis.fr
-  licenses:
-    - BSD-3-Clause
 - repo: alt_p11
   srcname: osquery
   binnames:
@@ -151,6 +117,40 @@
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   licenses:
     - Apache-2.0 OR GPL-2.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: osquery
+  binname: osquery
+  visiblename: osquery
+  version: 5.23.1
+  origversion: 5.23.1-1
+  status: outdated
+  summary: SQL powered operating system instrumentation, monitoring, and analytics
+  licenses:
+    - Apache-2.0 OR GPL-2.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: osquery
+  binname: osquery
+  visiblename: osquery
+  version: 5.23.1
+  origversion: 5.23.1-2
+  status: outdated
+  summary: SQL powered operating system instrumentation, monitoring, and analytics
+  licenses:
+    - Apache-2.0 OR GPL-2.0-only
+- repo: nix_stable_24_05
+  srcname: osquery
+  visiblename: osquery
+  version: 5.5.1
+  origversion: null
+  status: outdated
+  summary: SQL powered operating system instrumentation, monitoring, and analytics
+  maintainers:
+    - znewman01@gmail.com
+    - lewo@abesis.fr
+  licenses:
+    - BSD-3-Clause
 - repo: nix_stable_24_11
   srcname: osquery
   visiblename: osquery
@@ -211,9 +211,9 @@
 - repo: nix_unstable
   srcname: osquery
   visiblename: osquery
-  version: 5.24.0
+  version: 5.24.1
   origversion: null
-  status: outdated
+  status: newest
   summary: SQL powered operating system instrumentation, monitoring, and analytics
   maintainers:
     - znewman01@gmail.com
