@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,757 · **Forks**: 2,645 · **Open issues**: 3,719 · **Contributors**: 487
+- **Stars**: 23,761 · **Forks**: 2,646 · **Open issues**: 3,721 · **Contributors**: 487
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4658 · **Open PRs**: 73 · **Closed issues**: 3221 · **Open issues**: 498 · **Commits**: 6879
+- **Releases**: 143 · **Merged PRs**: 4659 · **Open PRs**: 78 · **Closed issues**: 3221 · **Open issues**: 500 · **Commits**: 6880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 63 | 19 | 9 | 18 | 0 |
-| last60d | 2026-09-13 | 2 | 101 | 28 | 34 | 24 | 0 |
-| 90d | 2026-08-14 | 2 | 120 | 32 | 59 | 25 | 0 |
-| last180d | 2026-05-16 | 3 | 149 | 40 | 156 | 43 | 0 |
-| 360d | 2025-11-17 | 6 | 221 | 50 | 208 | 48 | 0 |
-| last720d | 2024-11-22 | 12 | 334 | 55 | 264 | 86 | 351 |
+| 30d | 2026-10-14 | 1 | 60 | 24 | 9 | 19 | 70 |
+| last60d | 2026-09-14 | 2 | 101 | 33 | 33 | 25 | 122 |
+| 90d | 2026-08-15 | 2 | 121 | 37 | 59 | 27 | 128 |
+| last180d | 2026-05-17 | 3 | 150 | 45 | 156 | 45 | 155 |
+| 360d | 2025-11-18 | 6 | 222 | 55 | 207 | 50 | 223 |
+| last720d | 2024-11-23 | 12 | 335 | 60 | 264 | 88 | 352 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:25:32Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:00:40Z._
