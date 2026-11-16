@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,767 · **Forks**: 2,648 · **Open issues**: 3,723 · **Contributors**: 487
+- **Stars**: 23,770 · **Forks**: 2,649 · **Open issues**: 3,723 · **Contributors**: 487
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4659 · **Open PRs**: 84 · **Closed issues**: 3221 · **Open issues**: 502 · **Commits**: 6880
+- **Releases**: 143 · **Merged PRs**: 4659 · **Open PRs**: 86 · **Closed issues**: 3221 · **Open issues**: 502 · **Commits**: 6880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 56 | 32 | 9 | 21 | 70 |
-| last60d | 2026-09-16 | 2 | 100 | 41 | 33 | 27 | 122 |
-| 90d | 2026-08-17 | 2 | 121 | 44 | 59 | 29 | 128 |
-| last180d | 2026-05-19 | 3 | 150 | 51 | 156 | 46 | 155 |
-| 360d | 2025-11-20 | 6 | 219 | 61 | 206 | 52 | 223 |
-| last720d | 2024-11-25 | 12 | 335 | 66 | 264 | 90 | 352 |
+| 30d | 2026-10-17 | 1 | 54 | 34 | 9 | 21 | 51 |
+| last60d | 2026-09-17 | 2 | 97 | 43 | 32 | 27 | 110 |
+| 90d | 2026-08-18 | 2 | 121 | 46 | 59 | 29 | 128 |
+| last180d | 2026-05-20 | 3 | 150 | 52 | 155 | 46 | 155 |
+| 360d | 2025-11-21 | 6 | 219 | 63 | 206 | 52 | 223 |
+| last720d | 2024-11-26 | 12 | 334 | 68 | 263 | 90 | 352 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/osquery). **5** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/osquery). **6** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for osquery lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:29:19Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:51:03Z._
